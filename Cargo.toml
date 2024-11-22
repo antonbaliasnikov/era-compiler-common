@@ -7,7 +7,7 @@ resolver = "2"
 
 [workspace.package]
 authors = [
-    "Oleksandr Zarudnyi <a.zarudnyy@matterlabs.dev>",
+    "Anton Baliasnikov <aba@test.com>",
 ]
 license = "MIT OR Apache-2.0"
 edition = "2021"

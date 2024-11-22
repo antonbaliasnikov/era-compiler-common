@@ -1,5 +1,5 @@
 [package]
-name = "era-compiler-common"
+name = "era-compiler-common-fork"
 authors.workspace = true
 license.workspace = true
 edition.workspace = true

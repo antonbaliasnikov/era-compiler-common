@@ -58,6 +58,8 @@ impl Downloader {
                 continue;
             }
 
+            println!("Some feature.");
+
             let mut source_path = executable
                 .source
                 .replace("${PLATFORM}", platform_directory.as_str())
